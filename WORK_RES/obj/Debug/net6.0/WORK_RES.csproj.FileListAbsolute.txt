@@ -1,0 +1,15 @@
+D:\Квартира\Gb\3_C#\WORK_RES\obj\Debug\net6.0\WORK_RES.csproj.AssemblyReference.cache
+D:\Квартира\Gb\3_C#\WORK_RES\obj\Debug\net6.0\WORK_RES.GeneratedMSBuildEditorConfig.editorconfig
+D:\Квартира\Gb\3_C#\WORK_RES\obj\Debug\net6.0\WORK_RES.AssemblyInfoInputs.cache
+D:\Квартира\Gb\3_C#\WORK_RES\obj\Debug\net6.0\WORK_RES.AssemblyInfo.cs
+D:\Квартира\Gb\3_C#\WORK_RES\obj\Debug\net6.0\WORK_RES.csproj.CoreCompileInputs.cache
+D:\Квартира\Gb\3_C#\WORK_RES\bin\Debug\net6.0\WORK_RES.exe
+D:\Квартира\Gb\3_C#\WORK_RES\bin\Debug\net6.0\WORK_RES.deps.json
+D:\Квартира\Gb\3_C#\WORK_RES\bin\Debug\net6.0\WORK_RES.runtimeconfig.json
+D:\Квартира\Gb\3_C#\WORK_RES\bin\Debug\net6.0\WORK_RES.dll
+D:\Квартира\Gb\3_C#\WORK_RES\bin\Debug\net6.0\WORK_RES.pdb
+D:\Квартира\Gb\3_C#\WORK_RES\obj\Debug\net6.0\WORK_RES.dll
+D:\Квартира\Gb\3_C#\WORK_RES\obj\Debug\net6.0\refint\WORK_RES.dll
+D:\Квартира\Gb\3_C#\WORK_RES\obj\Debug\net6.0\WORK_RES.pdb
+D:\Квартира\Gb\3_C#\WORK_RES\obj\Debug\net6.0\WORK_RES.genruntimeconfig.cache
+D:\Квартира\Gb\3_C#\WORK_RES\obj\Debug\net6.0\ref\WORK_RES.dll
